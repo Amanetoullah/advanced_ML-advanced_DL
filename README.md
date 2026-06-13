@@ -1,4 +1,4 @@
-# Amanetoullah Cheikh C22643 __ Hashimi C21454  __ Omuar C22452
+# Amanetoullah Cheikh C22643
 # 🌿 Advanced Machine Learning & Deep Learning
 
 Bienvenue dans le dépôt principal regroupant mes travaux académiques pour le module **Apprentissage Automatique & Deep Learning Avancé** (Master 1 IA). Ce dépôt illustre l'exploration complète des modèles classiques de Machine Learning jusqu'aux architectures profondes de Deep Learning, couronnée par un projet intégrateur robuste.
